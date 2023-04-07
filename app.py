@@ -33,10 +33,10 @@ with tab8:
     st.header(':green[My Photography]')
     st.image('p2.jpg', caption='Cycnonotidie')
     st.image('p1.jpg', caption='The Sunset')
-    st.image('p3.jpg', caption='The Insect')
-    st.image('p4.jpg', caption='The Crow')
-    st.image('p5.jpg', caption="Beehive")
-    st.image('p6.jpg', caption='Pigeons')
+    st.image('p3.JPG', caption='The Insect')
+    st.image('p4.JPG', caption='The Crow')
+    st.image('p5.JPG', caption="Beehive")
+    st.image('p6.JPG', caption='Pigeons')
 st.header(":green[Hire ME]") 
 option = st.selectbox(
     '',
